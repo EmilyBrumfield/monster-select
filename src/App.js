@@ -18,6 +18,14 @@ import MonsterChecklist from './MonsterChecklist.js';
 
 import './App.css';
 
+import {
+  BrowserRouter as Router,
+  Route,
+  Link
+} from 'react-router-dom';
+
+<Router basename={'/monster-select'}></Router>
+
 class App extends Component {
   
   constructor(props) {
