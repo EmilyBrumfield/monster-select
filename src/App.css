@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App--line-break {
+  white-space: pre-wrap;
+}
+
+.App--header {
+  background-color: #222;
+  height: 3em;
+  color: white;
+}
+
+.App--title {
+  font-size: 1.5em;
+}
+
+.App--intro {
+  font-size: large;
+}
+
+.Checklist {
+  color: green;
+  margin-left: 1em;
+  text-align: left;
+}
+
+.Encounter__div {
+  height: 25em;
+  text-align: left;
+}
+
+.Encounter__textarea {
+  border: 1px solid black;
+  height: 30em;
+  margin: 1em;
+  width: 120em;
+}
+
+.Monster__button-group {
+  margin-top: 1em; 
+  text-align: left;
+}
+
+.Monster__button {
+  background-color: white;
+  border: 1px solid black;
+  font-size: 1em;
+  height: 2em;
+  margin: 0.25em;
+}
